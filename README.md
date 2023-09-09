@@ -24,5 +24,5 @@ Given that the text is a translation from ancient greek in not very modern engli
 
 ## TODO
 
-- Improve answers with a better model (fine tune one?)
+- Improve answers with a better model: tune it
 - Improve performance
