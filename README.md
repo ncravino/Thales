@@ -20,7 +20,7 @@ Using the Enchiridion from Epictetus (an ancient stoic) as the source for contex
 
 ![The model answering the question of the meaning of life as being escaping into the sphere of stoic freedom, that freedom is morals, and that morals is to praise the austerity of life and of the control of passions](./images/meaning_of_life.png)
 
-Given that the text is a translation from ancient greek in not very modern greek it could be worse, but can be improved.
+Given that the text is a translation from ancient greek in not very modern english it could be worse, but can be improved.
 
 ## TODO
 
