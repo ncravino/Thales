@@ -7,7 +7,7 @@ Talos was a mythological [bronze automaton](https://en.wikipedia.org/wiki/Talos)
 ## How to use
 0) create a venv: `python3 -m venv ./my-venv/`
 1) activate the venv: `. ./my-venv/bin/activate`
-2) install packages: `pip3 -r requirements.txt``
+2) install packages: `pip3 -r requirements.txt`
 3) Download e.g. the [Enchiridion](https://www.gutenberg.org/ebooks/45109) as txt or any other books into `./books/`
 4) Run `./src/load_books.py`
 5) Run `./src/main.py` and ask away
