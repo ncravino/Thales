@@ -12,6 +12,8 @@ Talos was a mythological [bronze automaton](https://en.wikipedia.org/wiki/Talos)
 4) Run `./src/load_books.py`
 5) Run `./src/main.py` and ask away
 
+Runs on an i7-1165G7 in battery mode without a GPU, although it takes a few seconds to answer.
+
 ## Example
 
 Using the Enchiridion from Epictetus (an ancient stoic) as the source for context, I ran the script and got the following:
