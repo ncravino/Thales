@@ -1,0 +1,4 @@
+chromadb==0.4.9
+torch==2.0.1
+transformers==4.33.1
+intel-extension-for-pytorch==2.0.100
