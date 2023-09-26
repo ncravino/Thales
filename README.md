@@ -2,8 +2,6 @@
 
 A simple POC question/answering bot based on [chromadb](https://www.trychroma.com/), [transformers](https://huggingface.co/docs/transformers/index), and the [distilbert-base-cased-distilled-squad](https://huggingface.co/distilbert-base-cased-distilled-squad) checkpoint.
 
-Talos was a mythological [bronze automaton](https://en.wikipedia.org/wiki/Talos) that protected Europa (the princess) in Crete against pirates and invaders.
-
 ## How to use
 0) create a venv: `python3 -m venv ./my-venv/`
 1) activate the venv: `. ./my-venv/bin/activate`
